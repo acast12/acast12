@@ -4,7 +4,7 @@
 My name is Alejandro Castillo.
 ====================================================
 
-Computer Science Undergraduate at CSUN
+
 ---------------------------
 
 - 🔭 I'm currently learning SFML for game dev
