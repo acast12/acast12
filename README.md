@@ -1,16 +1,13 @@
-### Hi there 👋
+![](https://media.giphy.com/media/26tk1rgzY5mgjTuFy/giphy.gif)
 
-<!--
-**acast12/acast12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Alejandro Castillo.
+====================================================
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Science Undergraduate at CSUN
+---------------------------
+
+- 🔭 I'm currently learning SFML for game dev
+- 🍻 Open to collaborating on projects
+
+
